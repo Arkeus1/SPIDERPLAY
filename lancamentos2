@@ -1,0 +1,31 @@
+MODELO COM VARIOS LINKS
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$1sname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+MODELO GDRIVE APENAS UM LINK
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url AQUI?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<item>
+<title>VINGADORES ULTIMATO</title>
+<link>https://s-delivery6.mxdcontent.net/v/9dbdf8cf8177cc3fda07a4934fb669e9.mp4?s=fnd0bskecZCJU3V5DCgWWg&e=1581896508</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
