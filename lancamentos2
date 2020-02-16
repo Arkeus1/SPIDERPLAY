@@ -13,8 +13,8 @@ MODELO COM VARIOS LINKS
 MODELO GDRIVE APENAS UM LINK
 
 <item>
-<title></title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url AQUI?usp=drivesdk</link>
+<title>VINGADORES ULTIMATO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;https://drive.google.com/file/d/1kOzLxs0czJH75RUqMlTRzMdJ9ia6o1jh/view?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
